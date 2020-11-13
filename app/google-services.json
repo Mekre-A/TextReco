@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341265583079",
+    "firebase_url": "https://textreco-eb39a.firebaseio.com",
+    "project_id": "textreco-eb39a",
+    "storage_bucket": "textreco-eb39a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341265583079:android:2915016d5b4c26684acb42",
+        "android_client_info": {
+          "package_name": "com.quantum.textreco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341265583079-c56shq8d15g2t6vjdkl5o3fugfibc62q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVPsRfnqVgzha9MI6bD_HXQOGioiZ-30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341265583079-c56shq8d15g2t6vjdkl5o3fugfibc62q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
